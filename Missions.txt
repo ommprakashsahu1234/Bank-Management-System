@@ -1,3 +1,0 @@
-1. Account Holders can Request or Send Money to another Account Holder.
-2. Account Holders can Apply for Loans through Bank Workers visiting physically. Loans can only be sanctioned or denied by the Branch Manager after applied by Bank Worker.
-3. Get a Notification in the dashboard in which all the latest updated for that account will be recieved and read Transaction Notifications , Requests , etc...
