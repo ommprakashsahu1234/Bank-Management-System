@@ -95,7 +95,7 @@ function AccountHolderDashboard() {
     return <div className="p-4 text-center">Loading user data...</div>;
   function handleLogout() {
     localStorage.removeItem('accountHolder-token');
-    navigate('/branchmanager');
+    navigate('/login');
   }
   return (
     <div className="relative min-h-screen bg-gray-100 pb-10">
