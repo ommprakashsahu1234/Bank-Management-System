@@ -38,7 +38,7 @@ function BankWorkerDashboard() {
 
   function handleLogout() {
     localStorage.removeItem('bankworker-token');
-    navigate('/branchmanager');
+    navigate('/bankworker');
   }
 
   if (loading) return <div className="p-4 text-center">Loading...</div>;
