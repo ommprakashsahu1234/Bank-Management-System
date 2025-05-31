@@ -42,7 +42,7 @@ function BankManagerDashboard() {
 
     function handleLogout() {
     localStorage.removeItem('bankmanager-token');
-    navigate('/branchmanager');
+    navigate('/bankmanager');
   }
 
   if (!data) {
