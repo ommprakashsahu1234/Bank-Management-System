@@ -48,12 +48,12 @@
 ---
 
 ## 🏗️ Project Structure
-/frontend → React (Vite)
-/backend → Node.js + Express
-/models → Mongoose schemas
-/routes → Role-based APIs
-/public → Static assets
-README.md → Project documentation
+/frontend → React (Vite)  
+/backend → Node.js + Express  
+/models → Mongoose schemas  
+/routes → Role-based APIs  
+/public → Static assets  
+README.md → Project documentation  
 
 ---
 
